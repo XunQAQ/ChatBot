@@ -3,7 +3,8 @@ This is a simple ChatBot project built using Python and the Natural Language Too
 
 ### Installation
 To run this project, you will need to have Python and NLTK installed on your machine. You can install Python from the official website (https://www.python.org/downloads/) and NLTK using pip:
-pip install nltk
+
+```pip install nltk```
 
 
 ### Usage
